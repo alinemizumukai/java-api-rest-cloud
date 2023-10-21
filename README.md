@@ -15,8 +15,7 @@ classDiagram
 
     class Destination {
         - city: String
-        - month: Number
-        - year: Number
+        - country: String
     }
 
     class Budget {
