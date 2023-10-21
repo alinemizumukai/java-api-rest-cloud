@@ -1,0 +1,1 @@
+web: java -jar build/libs/java-api-rest-cloud-0.0.1-SNAPSHOT.jar
