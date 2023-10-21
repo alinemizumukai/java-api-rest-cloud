@@ -33,3 +33,9 @@ classDiagram
     User --> Expense
 
 ```
+
+# Documentação da API (Swagger)
+
+https://java-api-prd.up.railway.app/swagger-ui/index.html
+
+*<i>Disponível no Railway por um período de tempo limitado.</i>
